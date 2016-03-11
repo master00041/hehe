@@ -220,9 +220,9 @@ function create_config( )
     "invite",
     "all"
     },
-    sudo_users = {122774063,106014613,108151290,114986931,121208333},--Sudo users
+    sudo_users = {104583328},--Sudo users
     disabled_channels = {},
-    realm = {79472297},--Realms Id
+    realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
     about_text = [[SBSS Version 2
 An advance Administration bot based on yagop/telegram-bot by @Mr_Ah_S
